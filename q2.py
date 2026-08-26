@@ -1,4 +1,3 @@
-# simple calculator - no '+' sign used, only 3 variables
 
 num1 = float(input("enter first number: "))
 num2 = float(input("enter second number: "))
